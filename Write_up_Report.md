@@ -38,7 +38,7 @@ left line vs the right line. This function will draw lines with parametes for co
 
 To better visualize the result, here is an example of an image: 
 
-![alt text][https://view54dc5dc0.udacity-student-workspaces.com/view/CarND-LaneLines-P1/test_images_output/whiteCarLaneSwitch.jpg]
+![alt text][whiteCarLaneSwitch.jpg]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
