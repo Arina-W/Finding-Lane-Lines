@@ -36,9 +36,8 @@ Modification consists of separating line segments by their slope to decide which
 left line vs the right line. This function will draw lines with parametes for color, and thickness. Lines are drawn on the image. 
 
 
-To better visualize the result, here is an example of an image and its output: 
+To better visualize the result, here is an example of an image output: 
 
-![image](test_images/solidWhiteCurve.jpg)
 ![output](test_images_output/solidWhiteCurve.jpg)
 
 
