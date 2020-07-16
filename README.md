@@ -41,16 +41,20 @@ To better visualize the result, here is an example of an image:
 ![alt text][whiteCarLaneSwitch.jpg]
 
 
-### 2. Identify potential shortcomings with your current pipeline
+### 2.  Potential shortcomings with the current pipeline
 
 
-One potential shortcoming would be what would happen when ... 
+ Current pipeline might have trouble to perceive the lane lines if the car needs to take a sharp turn
+ or even a simple curve maneuver.
+ 
+ Another concern would be the effect of nightlight from night lamps and reflections of headlamps etc
+ during nighttime.
 
-Another shortcoming could be ...
 
+### 3.  Possible suggestions for improvements to the pipeline
 
-### 3. Suggest possible improvements to your pipeline
-
-A possible improvement would be to ...
-
-Another potential improvement could be to ...
+ A possible improvement would be to also apply small segmentations of the image to acknowledge even the
+ sharpest turn or maneuver for the car.
+ 
+ To cater problems that might occur at dark, I suggest that we use value scale in the HSV coordination
+ and apply a mask of it in the pipeline.
