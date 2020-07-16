@@ -38,7 +38,7 @@ left line vs the right line. This function will draw lines with parametes for co
 
 To better visualize the result, here is an example of an image: 
 
-![output][test_images_output/solidWhiteCurve.jpg]
+![output](test_images_output/solidWhiteCurve.jpg)
 
 
 ### 2.  Potential shortcomings with the current pipeline
