@@ -23,7 +23,7 @@ The goals / steps of this project are the following:
 
 ### 1. Pipeline descriptions and the draw_lines() function.
 
-My pipeline consisted of 5 steps I stated down below.
+My pipeline consists of 5 steps I stated down below.
 
 1) Color Detection : Images are converted to grayscale using openCV library.
 2) Blurring : Gray images are blurred using the Gaussian Blur function.
