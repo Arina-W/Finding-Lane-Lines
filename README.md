@@ -2,7 +2,7 @@
 
 ## Writeup Report : Project 1/9
 
-### In this project, I used the tools learned in the lesson to identify lines on the road. I developed a pipeline on a series of invidual images, and later applied the result to a set of video streams. 
+### In this project, I developed a pipeline on a series of individual images, and later applied the result to a set of video streams.
 
 ---
 
